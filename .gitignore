@@ -1,0 +1,17 @@
+*.log
+*.orig
+\.vs/
+[Oo]bj/
+[Bb]in/
+.nuget/
+_ReSharper.*
+packages/
+artifacts/
+*.user
+*.suo
+*.userprefs
+*DS_Store
+*.sln.ide
+.tmp/
+FodyWeavers.xml
+build/**/launchSettings.json

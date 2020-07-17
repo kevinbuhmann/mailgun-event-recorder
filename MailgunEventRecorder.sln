@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailgunEventRecorder", "MailgunEventRecorder\MailgunEventRecorder.csproj", "{E9184D45-1399-42BF-9F7D-E1A1A27B629F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Fast|Any CPU = Fast|Any CPU
+		Prod|Any CPU = Prod|Any CPU
+		Verify|Any CPU = Verify|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9184D45-1399-42BF-9F7D-E1A1A27B629F}.Fast|Any CPU.ActiveCfg = Fast|Any CPU
+		{E9184D45-1399-42BF-9F7D-E1A1A27B629F}.Fast|Any CPU.Build.0 = Fast|Any CPU
+		{E9184D45-1399-42BF-9F7D-E1A1A27B629F}.Prod|Any CPU.ActiveCfg = Prod|Any CPU
+		{E9184D45-1399-42BF-9F7D-E1A1A27B629F}.Prod|Any CPU.Build.0 = Prod|Any CPU
+		{E9184D45-1399-42BF-9F7D-E1A1A27B629F}.Verify|Any CPU.ActiveCfg = Verify|Any CPU
+		{E9184D45-1399-42BF-9F7D-E1A1A27B629F}.Verify|Any CPU.Build.0 = Verify|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D5AB5D4-C647-4ABE-A08B-DA7E31356EB0}
+	EndGlobalSection
+EndGlobal
