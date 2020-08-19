@@ -1,0 +1,5 @@
+<!-- This file was copied from the '.config' directory. Modifications will be lost. -->
+<Weavers>
+  <ConfigureAwait ContinueOnCapturedContext="false" />
+  <Xtensions.ArgumentGuard />
+</Weavers>

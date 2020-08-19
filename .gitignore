@@ -13,5 +13,5 @@ artifacts/
 *DS_Store
 *.sln.ide
 .tmp/
-FodyWeavers.xml
+MailgunEventRecorder/**/FodyWeavers.xml
 build/**/launchSettings.json
